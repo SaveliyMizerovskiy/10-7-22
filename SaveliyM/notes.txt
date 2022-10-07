@@ -1,0 +1,16 @@
+have to link the css with the html to actualy edit the html
+
+rational selectors:
+#myList p - all elems
+#myList p
+#myList p
+#myList p
+
+psuedo-class selectors: single element is selected
+first child
+nth child (even)
+
+psuedo-element selectors: a single part of an element 
+first letter
+first line
+
