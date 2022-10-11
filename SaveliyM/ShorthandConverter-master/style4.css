@@ -104,3 +104,20 @@ body{
   border-style: solid;
   border-width: 10px;
 }
+/* This is my partners code */ 
+
+#taskOne{
+  color: yellow;
+  font-weight: 900;
+}
+
+#taskTwo{
+  color: blue;
+  font-weight: 500;
+}
+
+#taskThree{
+  color: purple;
+  font-weight: 100;
+}
+
